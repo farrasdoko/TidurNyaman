@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Tidur Nyaman</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="isi_nyenyak">
+
+        <b>1 - Buat suhu kamar Anda dingin tetapi nyaman.</b>
+        \n\n Percaya atau tidak, tidur akan jauh lebih mudah di dalam lingkungan
+        yang dingin daripada kamar yang hangat membara. Usahakan mengatur
+        suhu kamar tidur Anda antara 15 - 19ºC. Pilihan pribadi juga berpengaruh,
+        tetapi suhu untuk tidur yang ideal bagi sebagian besar orang jatuh dalam
+        rentang angka ini. Cobalah dan mungkin Anda akan heran sendiri. \n\n
+
+        <b>2 - Kurangi suara dan cahaya.</b>
+        \n\nJika Anda mudah terbangun di malam hari, pakailah penyumbat telinga dan
+        penutup mata untuk menghindari rangsangan yang bisa membuat Anda terbangun.
+        Jika sinar matahari pagi membangunkan Anda, pasang tirai hitam untuk
+        menghalanginya. \n\n
+
+        <b>3 - Pertimbangkan suara konstan (white noise).</b>
+        \n\nJika suara bising di malam hari tidak bisa dihindari, suara latar yang
+        menenangkan akan dapat membantu menyamarkannya. Cobalah menyalakan kipas angin
+        atau menyetel musik lembut yang menenangkan. Jika kamar Anda terasa kering, alat
+        pelembap udara bisa memecahkan dua masalah ini sekaligus. \n\n
+
+        <b>4 - Pilih posisi tidur.</b>
+        \n\n Memilih posisi tidur sangat penting khususnya jika Anda sakit punggung atau leher,
+        tetapi mengatur posisi tubuh dan bantal dengan nyaman akan bermanfaat bagi semua orang.
+        Cobalah salah satu posisi di bawah ini: \n\n
+        \u2022 Tidur menyamping, dengan lutut ditekuk sedikit ke arah dada. Tempatkan sebuah bantal
+        di antara lutut untuk menjaga agar panggul dan tulang belakang Anda tetap lurus. \n\n
+        \u2022 Tidurlah dalam posisi telentang hanya jika kasur Anda merupakan penyangga yang nyaman.
+        Cobalah menempatkan bantal di bawah lutut dan/atau di bawah cekungan punggung Anda untuk penyanggatambahan. \n\n
+        \u2022 Tidur tengkurap tidak disarankan, karena dapat menyebabkan masalah pernapasan dan sakit
+        leher. Jika Anda hanya bisa tertidur dalam posisi ini, tidurlah di tepi bantal panjang, jadi Anda
+        bisa memiringkan kepala sedikit untuk aliran udara, tetapi tidak perlu sampai memutar leher.\n\n
+
+        <b>5 - Coba beberapa pengaturan bantal yang berbeda.</b>
+        \n\n Beberapa orang tidur tanpa bantal, sementara yang lain menyukai satu atau dua bantal besar
+        dan empuk. Pilihlah bantal yang menjamin leher dan bahu Anda rileks sepanjang malam. Jika Anda
+        merasa tegang ketika bangun, dan tidak bisa menemukan bantal yang cocok, cobalah gulung selembar
+        handuk dan tempatkan di bawah leher untuk penyangga langsung.\n\n
+        \u2022 Jika Anda tidak bisa menemukan posisi nyaman untuk lengan, cobalah memeluk
+        bantal besar, gulungan handuk, atau boneka binatang.\n\n
+
+        <b>6 - Gunakan selimut tebal dalam suhu yang dingin hingga normal.</b>
+        \n\n Selimut atau penutup yang lebih tebal dapat meningkatkan rasa aman ketika jatuh tertidur.
+        Ini tergantung pada pilihan pribadi dan cuaca, Anda mungkin lebih menyukai selimut yang lebih
+        tipis, selimut tebal dan hangat, atau bahkan selimut yang diberi pemberat khusus. \n\n
+
+        <b>7 - Tidurlah dengan nyaman di cuaca panas.</b>
+        \n\n Ubah pengaturan tidur ketika cuaca menjadi lebih panas, khususnya bila Anda terbangun
+        dengan berkeringat atau merasa tergulung dalam seprai dan selimut. Jika biasanya Anda tidur tanpa
+        pakaian di bawah selimut yang cukup tebal, cobalah tidur memakai piama di bawah selimut kain tipis.\n\n
+        \u2022 Jika Anda tidak memiliki penyejuk udara, basahi kain atau kertas tisu dan gantung di atas wajah dan lengan Anda.
+    </string>
+
+    <string name="isi_santai">
+        <b>1 - Gunakan tempat tidur Anda hanya untuk tidur.</b>
+        \n\n Bekerja, bermain, dan aktivitas lain hanya boleh dilakukan di meja atau meja kerja, kalau memungkinkan
+        di ruangan lain, bukan di tempat tidur. Melatih diri Anda untuk mengasosiasikan tempat tidur dengan tidur
+        atau aktivitas sebelum tidur yang menenangkan dapat membantu memicu tidur dengan lebih konsisten.\n\n
+
+        <b>2 - Miliki ritual sebelum tidur.</b>
+        \n\n Bersantai setiap malam menempatkan Anda pada kerangka pikiran yang tepat untuk tidur, khususnya bila
+        Anda mengulangi ritual yang sama setiap kali. Jika berbaring nyalang di tempat tidur menyebabkan rasa cemas
+        atau takut, cara ini sangat penting. Cobalah ide-ide di bawah ini:\n\n
+        \u2022 Baca buku yang menenangkan.
+        \u2022 Dengarkan rekaman buku audio, dengan mata tertutup. Jika cara ini justru membuat Anda terjaga,
+        dengarkan suara alam sebagai gantinya.
+        \u2022 Makan camilan bila Anda cenderung bangun tengah malam karena lapar, seperti segelas susu, pisang,
+        atau semangkuk kecil cereal rendah gula.\n\n
+
+        <b>3 - Olahraga</b>
+        \n\n Olahraga adalah ide bagus, selama Anda tidak memaksa diri berolahraga tepat sebelum tidur. Menguras
+        tenaga sampai kelelahan ekstrem tidak akan menghasilkan tidur yang tenang, tetapi beberapa bentuk aktivitas
+        fisik memang merupakan keharusan untuk membantu Anda mematuhi jadwal tidur harian.\n\n
+
+        <b>4 - Tutup hari Anda dengan makanan yang ringan. </b>
+        \n\n Seperti yang disebutkan di atas, fungsi tubuh Anda melambat ketika mulai tertidur, termasuk metabolisme.
+        Apabila Anda makan makanan berat sebelum tidur, metabolisme yang sudah melambat dapat membuat Anda kekenyangan
+        – atau kembali pada "fungsi aktif" dan menghasilkan energi yang tidak diinginkan.
+    </string>
+
+    <string name="isi_gelisah">
+        <b>1 - Hati-hati terhadap mandi air panas dan olahraga sebelum tidur.</b>
+        \n\n Ketika tubuh bertransisi dari aktif ke istirahat, semua fungsi melambat, dan suhu tubuh menurun. Meningkatkan
+        suhu dengan mandi air panas atau sesi olahraga akan memperlambat proses itu, sehingga tidur akan lebih sulit. Jika
+        Anda perlu olahraga supaya merasa lelah, atau harus mandi untuk merasa nyaman, lakukanlah lebih awal sehingga paling
+        tidak Anda memiliki tiga puluh menit untuk mendinginkan diri sebelum tidur.\n\n
+
+        <b>2 - Hindari hampir semua alat elektronik.</b>
+        \n\n Kimia otak Anda menafsirkan cahaya biru sebagai fajar dini, yang membuat otak lebih aktif. Telepon, konsol
+        permainan, dan komputer merupakan sumber cahaya biru, dan aktivitas lain yang melibatkan upaya mental dapat membuat
+        tidur lebih sulit. \n\n
+        \u2022 ika Anda memutuskan untuk menggunakan komputer di malam hari, pasanglah Flux untuk mengubah layar komputer Anda menjadi warna kemerahan dan merah muda seperti "matahari terbenam". \n\n
+
+        <b>3 - Hindari vitamin, suplemen, dan makanan yang merangsang.</b>
+        \n\n Mungkin Anda tahu bahwa kafeina dan gula membuat Anda terjaga, termasuk kafeina yang terdapat dalam soda dan cokelat.
+        Zat lain yang juga mengganggu tidur adalah vitamin B, obat steroid untuk asma, penghalang beta, obat yang mengandung opium,
+        ginseng, dan guarana. Jika Anda harus meminum salah satu suplemen ini secara teratur di malam hari, minumlah lebih awal. \n\n
+        \u2022 Jangan mengubah jadwal minum obat tanpa berkonsultasi dengan dokter. \n\n
+        \u2022 Minum lebih banyak air dapat membantu mempercepat proses jalannya kimia tersebut di dalam tubuh Anda, tetapi cara ini
+        bisa menjadi kontraproduktif bila Anda justru harus terbangun di tengah malam untuk ke kamar mandi. \n\n
+
+        <b>4 - Hindari alkohol dan rokok sebelum tidur.</b>
+        \n\n Rangsangan dari rokok atau sumber tembakau lain dapat membuat Anda terjaga atau menyebabkan tidur gelisah dan cemas.
+        Saran mengenai alkohol mungkin tampak lebih tidak biasa, karena alkohol bisa membuat Anda tertidur. Namun ritme tidur
+        setelah alkohol sangat terganggu. Hindari alkohol dalam dua atau tiga jam sebelum tidur, kalau tidak Anda akan terbangun
+        di tengah malam, atau bangun dengan perasaan lelah pada pagi harinya. \n\n
+
+        <b>5 - Minum obat tidur bila diperlukan.</b>
+        \n\n Jika Anda kesulitan mematuhi jadwal tidur atau tidak bisa tidur nyenyak semalaman, Anda bisa memanfaatkan melatonin
+        untuk mendorong kebiasaan tidur yang baik. Untuk insomnia parah, mungkin Anda membutuhkan obat tidur yang diresepkan
+        dokter, tetapi penggunaan teratur dapat membuat Anda kebal dan bahkan ketergantungan pada obat. Patuhi petunjuk dokter
+        dan kalau memungkinkan jangan minum obat untuk meringankan kondisi ini. \n\n
+
+        <b>6 - Bicarakan dengan dokter tentang apnea tidur.</b>
+        \n\n Kondisi umum yang ditandai dengan mendengkur ini memotong aliran udara ke paru-paru ketika Anda tidur, sehingga
+        menyebabkan tidur yang gelisah atau sering terbangun. Kemungkinan Anda terkena apnea akan lebih besar bila kelebihan
+        berat badan atau mempunyai masalah pernapasan. Dokter bisa merekemondasikan "lab tidur", tidur Anda akan dimonitor untuk
+        mengetahui kondisi lebih lanjut.
+    </string>
+</resources>
+
+    <!--\u2022-->
